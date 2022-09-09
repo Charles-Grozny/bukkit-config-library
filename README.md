@@ -1,1 +1,0 @@
-# bukkit-config-library
